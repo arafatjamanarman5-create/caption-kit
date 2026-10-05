@@ -1,0 +1,7 @@
+{
+  "name": "caption-kit",
+  "version": "0.1.0",
+  "description": "CLI tool for captions, hashtags and posting times",
+  "bin": { "caption-kit": "src/index.js" },
+  "license": "MIT"
+}
